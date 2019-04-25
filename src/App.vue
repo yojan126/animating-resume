@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
+* 大家好，我是冯志浩
 * 二月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
@@ -115,7 +115,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `冯志浩
 ----
 
 资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
